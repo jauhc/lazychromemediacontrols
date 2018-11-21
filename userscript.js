@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  scroll for volume, click to pause
 // @author       jauhc
-// @match        *://*/*
+// @match        *://*/*.webm
 // @grant        none
 // @run-at document-idle
 // ==/UserScript==
